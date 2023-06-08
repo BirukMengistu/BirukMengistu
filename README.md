@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Nextjs and typescript 
+- 🔭 I’m currently working on Nextjs and typescript project.
 - 🌱 I’m currently learning typescript Adavance level
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
